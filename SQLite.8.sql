@@ -1,0 +1,1 @@
+SELECT equipe_casa FROM jogos_esportivos ORDER by pontuacao_casa DESC; 
